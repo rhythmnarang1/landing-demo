@@ -1,7 +1,6 @@
 # Landing Demo – Git Merge Conflict Practice
 
-This project is a simple landing page created to intentionally practice Git branching, merging, and resolving merge conflicts. The goal is not the UI itself, but understanding how real development teams deal with conflicting changes.
-
+This project is a simple landing page created to intentionally practice Git branching, merging, and resolving merge conflicts. 
 ## What’s Inside
 - `index.html` – basic landing page structure  
 - `styles.css` – simple styling  
