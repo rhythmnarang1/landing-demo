@@ -1,0 +1,16 @@
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  margin: 2rem;
+  background: #f8fafc;
+  color: #0f172a;
+}
+header h1 {
+  margin-bottom: 1rem;
+}
+#cta {
+  margin-top: 1rem;
+  padding: 0.6rem 1rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+}
